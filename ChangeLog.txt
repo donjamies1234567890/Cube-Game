@@ -1,3 +1,5 @@
 - Added Username Syncing 
 - Added Voice
 - Added Cube
+- Added Playfab
+- Added Banning ¯\_(ツ)_/¯
