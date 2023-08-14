@@ -1,195 +1,68 @@
 {
-  "filteredNames":
-    {
-      "key1" : "bitch"
-    },
-    {
-      "key2" : "fuck"
-    },
-    {
-      "key3" : "penis"
-    },
-    {
-      "key4" : "dick"
-    },
-    {
-      "key5" : "hitler"
-    },
-    { 
-      "key6" : "kkk"
-    },
-    { 
-      "key7" : "nigga"
-    },
-    {
-      "key8" : "nigger"
-    },
-    {
-      "key9" : "niger"
-    },
-    {
-      "key10" : "fuck you"
-    },
-    {
-      "key11" : "niga"
-    },
-    {
-      "key12" : "faggot"
-    },
-    {
-      "key13" : "fag"
-    },
-    {
-      "key14" : "Nitty Gritty"
-    },
-    {
-      "key15" : "lesbian"
-    },
-    {
-      "key16" : "gay"
-    },
-    {
-      "key17" : "nig"
-    },
-    {
-      "key18" : "niga"
-    },
-    {
-      "key19" : "meowbahh"
-    },
-    {
-      "key20" : "adolf"
-    },
-    {
-      "key21" : "daddyfuck"
-    },
-    {
-      "key22" : "penis"
-    },
-    {
-      "key23" : "nig"
-    },
-    {
-      "key24" : "killniggers"
-    },
-    {
-      "key25" : "killniggers "
-    },
-    {
-      "key26" : "nigger "
-    },
-    {
-      "key27" : "niggers"
-    },
-    {
-      "key28" : "niggers "
-    },
-    {
-      "key29" : "khk"
-    },
-    {
-      "key30" : "furry"
-    },
-    {
-      "key31" : "zoophile"
-    },
-    {
-      "key32" : "nniiggaaz"
-    },
-    {
-      "key33" : "kkknigger"
-    },
-    {
-      "key34" : "porn"
-    },
-    {
-      "key35" : "kkkleadxer"
-    },
-    {
-      "key36" : "joinkkknicker"
-    },
-    {
-      "key37" : "dickhead"
-    },
-    {
-      "key38" : "kysnigga"
-    },
-    {
-      "key39" : "ihateniggers"
-    },
-    {
-      "key40" : "nligger"
-    },
-    {
-      "key41" : "h1tler"
-    },
-    {
-      "key42" : "h1tler"
-    },
-    {
-      "key43" : "fucx"
-    },
-    {
-      "key44" : "n1gg3r"
-    },
-    {
-      "key45" : "porn"
-    },
-    {
-      "key46" : "queer"
-    },
-    {
-      "key47" : "trans"
-    },
-    {
-      "key48" : "frisk"
-    },
-    {
-      "key49" : "maximility"
-    },
-    {
-      "key50" : "catexpress"
-    },
-    {
-      "key51" : "dingus"
-    },
-    {
-      "key52" : "lgbtq"
-    },
-    {
-      "key53" : "lgbqt"
-    },
-    {
-      "key54" : "bi"
-    },
-    {
-      "key55" : "deeznuts"
-    },
-    {
-      "key56" : "nutsdeez"
-    },
-    {
-      "key57" : "deeznut"
-    },
-    {
-      "key58" : "nutdeez"
-    },
-    {
-      "key59" : "deesnuts"
-    },
-    {
-      "key60" : "deesnut"
-    },
-    {
-      "key61" : "nutsdees"
-    },
-    {
-      "key62" : "nutdees"
-    },
-    {
-      "key63" : "pussy"
-    },
-    {
+"filteredNames": {
+      "key1" : "bitch",
+      "key2" : "fuck",
+      "key3" : "penis",
+      "key4" : "dick",
+      "key5" : "hitler",
+      "key6" : "kkk",
+      "key7" : "nigga",
+      "key8" : "nigger",
+      "key9" : "niger",
+      "key10" : "fuck you",
+      "key11" : "niga",
+      "key12" : "faggot",
+      "key13" : "fag",
+      "key14" : "Nitty Gritty",
+      "key15" : "lesbian",
+      "key16" : "gay",
+      "key17" : "nig",
+      "key18" : "niga",
+      "key19" : "meowbahh",
+      "key20" : "adolf",
+      "key21" : "daddyfuck",
+      "key22" : "penis",
+      "key23" : "nig",
+      "key24" : "killniggers",
+      "key25" : "killniggers ",
+      "key26" : "nigger ",
+      "key27" : "niggers",
+      "key28" : "niggers ",
+      "key29" : "khk",
+      "key30" : "furry",
+      "key31" : "zoophile",
+      "key32" : "nniiggaaz",
+      "key33" : "kkknigger",
+      "key34" : "porn",
+      "key35" : "kkkleadxer",
+      "key36" : "joinkkknicker",
+      "key37" : "dickhead",
+      "key38" : "kysnigga",
+      "key39" : "ihateniggers",
+      "key40" : "nligger",
+      "key41" : "h1tler",
+      "key42" : "h1tler",
+      "key43" : "fucx",
+      "key44" : "n1gg3r",
+      "key45" : "porn",
+      "key46" : "queer",
+      "key47" : "trans",
+      "key48" : "frisk",
+      "key49" : "maximility",
+      "key50" : "catexpress",
+      "key51" : "dingus",
+      "key52" : "lgbtq",
+      "key53" : "lgbqt",
+      "key54" : "bi",
+      "key55" : "deeznuts",
+      "key56" : "nutsdeez",
+      "key57" : "deeznut",
+      "key58" : "nutdeez",
+      "key59" : "deesnuts",
+      "key60" : "deesnut",
+      "key61" : "nutsdees",
+      "key62" : "nutdees",
+      "key63" : "pussy",
       "key64" : "kys"
-    }
+  }
 }
