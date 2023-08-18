@@ -4,3 +4,4 @@
 - Added Playfab
 - Added Banning ¯\_(ツ)_/¯
 - Added New Map
+- Added Chat You Can Toggle It With "/"
