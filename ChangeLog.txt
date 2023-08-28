@@ -1,7 +1,7 @@
 - Added Username Syncing 
 - Added Voice
 - Added Cube
-- Added Playfab
+- Added APIs And Items Not For You Only Me For Now Unless I Give It To You
 - Added Banning ¯\_(ツ)_/¯
 - Added New Map
 - Added Chat You Can Toggle It With "/"
